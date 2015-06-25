@@ -29,4 +29,4 @@ Please feel free to use a different markup language if you do not plan to run
 
 ####Image test
 ![Monkey Picture]
-(http://funmozar.com/wp-content/uploads/2015/02/Monkey-14.jpg)
+(http://intervexion.com/wp-content/uploads/2012/12/monkey.jpg)
